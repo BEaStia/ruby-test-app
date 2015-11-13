@@ -31,7 +31,7 @@ describe 'Check Storage' do
   it 'should be faster' do
 
     storage = Storage.new
-    
+
     true.should_not == false
   end
 
